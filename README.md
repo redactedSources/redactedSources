@@ -1,6 +1,6 @@
 - 👋 Hey y'all, I’m @redactedSources
-- 👀 I’m interested in protecting stuff from bad actors.
-- 🌱 I’m currently learning how to be secure the cloud.
+- 👀 I’m interested in fighting cyber bad actors.
+- 🌱 I’m currently learning how to deter, defennd, detect, and disrupt bad actor networks.
 - 💞️ I’m looking to collaborate on non-profit projects.
 - 📫 Reach out 
 
