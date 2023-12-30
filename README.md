@@ -1,6 +1,6 @@
 - 👋 Hey y'all, I’m @redactedSources
-- 👀 I’m interested in fighting financially-motivated cyber organized crime groups.
-- 🌱 I’m currently learning how to deter, defennd, detect, and disrupt cybercrime syndicates.
+- 👀 I’m interested in cyber defence & networking.
+- 🌱 I’m currently learning networking.
 - 💞️ I’m looking to collaborate on projects for good.
 - 📫 Reach out however you'd like.
 
